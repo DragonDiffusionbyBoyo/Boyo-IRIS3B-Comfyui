@@ -1,0 +1,7 @@
+omegaconf
+safetensors
+huggingface_hub
+transformers>=4.57.0
+accelerate
+pillow
+numpy
