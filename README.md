@@ -24,19 +24,10 @@ The iris-3b library is vendored inside this repo — no submodules, no separate 
 
 ## Installation
 
-### Via ComfyUI Manager (recommended)
-
-Install from the custom node list. ComfyUI Manager runs `install.py` automatically
-which installs the vendored `iris-3b` package and all dependencies.
-
-Restart ComfyUI after install.
-
-### Manual
-
 ```bash
 cd ComfyUI/custom_nodes
-git clone <this-repo> Boyo-IRIS3B
-cd Boyo-IRIS3B
+git clone https://github.com/BoyoDragon/Boyo-IRIS3B-Comfyui
+cd /Boyo-IRIS3B-Comfyui
 pip install -r requirements.txt
 pip install -e iris-3b/
 ```
