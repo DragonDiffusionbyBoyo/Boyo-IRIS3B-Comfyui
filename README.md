@@ -26,7 +26,7 @@ The iris-3b library is vendored inside this repo — no submodules, no separate 
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/BoyoDragon/Boyo-IRIS3B-Comfyui
+git clone https://github.com/DragonDiffusionbyBoyo/Boyo-IRIS3B-Comfyui.git
 cd Boyo-IRIS3B-Comfyui
 pip install -r requirements.txt
 pip install -e iris-3b/
