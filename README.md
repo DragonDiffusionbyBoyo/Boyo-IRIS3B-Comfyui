@@ -1,3 +1,7 @@
+I have a pug dog to maintain and he does not eat or drink or play with fresh air!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E01W3X6E)
+
 # Boyo-IRIS3B — ComfyUI Node Pack
 
 ComfyUI custom nodes wrapping [speridlabs/iris-3b](https://github.com/speridlabs/iris-3b).
